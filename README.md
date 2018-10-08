@@ -1,0 +1,2 @@
+# PHPstudy
+JUST FOR STUDYING PHP
